@@ -12,6 +12,7 @@ Sweetviz is a Python library that creates comparison reports between two dataset
 
 ## 3.D-Tale: 
 D-Tale is a library that provides an interactive web interface for visualizing Pandas DataFrames. It allows users to generate various visualizations, explore individual data points, and analyze summary statistics. D-Tale provides an easy way to interactively explore the data without writing code.
+link: https://dnym4yso92h-496ff2e9c6d22116-40000-colab.googleusercontent.com/dtale/main/1
 
 ## 4.AutoViz: 
 AutoViz is a Python library that automatically generates a wide range of visualizations for a given dataset. It selects appropriate chart types based on the data's characteristics and distribution. AutoViz is helpful for quickly creating a variety of plots to identify trends and relationships.
