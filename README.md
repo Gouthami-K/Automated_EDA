@@ -9,7 +9,8 @@ Pandas Profiling is a Python library that generates a comprehensive HTML report 
 link: http://localhost:8889/view/INEURON/EXTRA/eda/pandas-profiling/Travel_output.html
 
 ## 2.Sweetviz:
-Sweetviz is a Python library that creates comparison reports between two datasets, typically a train set and a test set. It automatically generates side-by-side visualizations and statistics, highlighting differences between datasets. Sweetviz helps identify changes in data distribution or relationships.
+Sweetviz is a Python library that creates comparison reports between two datasets, typically a train set and a test set. It automatically generates side-by-side visualizations and statistics, highlighting differences between datasets. Sweetviz helps identify changes in data distribution or relationships.\
+linl: http://localhost:8889/view/INEURON/EXTRA/eda/sweetviz/SWEETVIZ_REPORT.html
 
 ## 3.D-Tale: 
 D-Tale is a library that provides an interactive web interface for visualizing Pandas DataFrames. It allows users to generate various visualizations, explore individual data points, and analyze summary statistics. D-Tale provides an easy way to interactively explore the data without writing code.\
