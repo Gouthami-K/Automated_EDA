@@ -18,6 +18,7 @@ D-Tale is a library that provides an interactive web interface for visualizing P
 visit link: https://i4wcdtozzsc-496ff2e9c6d22116-40000-colab.googleusercontent.com/dtale/main/1
 
 ## 4.AutoViz: 
-AutoViz is a Python library that automatically generates a wide range of visualizations for a given dataset. It selects appropriate chart types based on the data's characteristics and distribution. AutoViz is helpful for quickly creating a variety of plots to identify trends and relationships\
+AutoViz is a Python library that automatically generates a wide range of visualizations for a given dataset. It selects appropriate chart types based on the data's characteristics and distribution. AutoViz is helpful for quickly creating a variety of plots to identify trends and relationships.
+
 
 These automated techniques and tools can be valuable, especially when dealing with large datasets or when you want to for quickly gaining insights into your data. However, it's important to note that these tools are not a one-size-fits-all solution. The efficacy of these techniques can vary depending on the nature of the data and the specific problem you're trying to solve. Manual intervention and domain expertise might still be required for certain cases to ensure that the generated features are meaningful and relevant to the problem at hand.
